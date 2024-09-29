@@ -1,0 +1,7 @@
+What is a pomodoro timer?
+
+A timer that counts down from 25mins to zero, when it reaches zero there is a 5min break
+there are generally 4 cycles of this and then there is a 45 minute break
+I would like to be able to choose number of cycles eventually
+A sound need to be played when zero is reached to signal next phase of the cycles
+A pause button should be available
